@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #187ef3;
+    text-align: center;
+}
+img{
+    margin: 100px 20px;
+}
+.logo1{
+    box-shadow: 10px 10px 20px 10px #fff;
+}
+.logo2{
+    filter:drop-shadow(0 0 20px #fff) ;
+}
